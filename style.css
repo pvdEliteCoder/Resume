@@ -1,0 +1,59 @@
+  h1 {
+            color: white;
+            font-size: 60px;
+            padding-left: 300px;
+            padding-top: 10px;
+            font-family: 'Permanent Marker', cursive;
+        }
+
+        h2 {
+            font-family: 'Raleway', sans-serif;
+        }
+
+        h3 {
+            padding-left: 70px;
+            font-size: 35px;
+            font-family: 'Permanent Marker', cursive;
+            text-decoration: underline;
+        }
+
+        p {
+            font-family: 'Raleway', sans-serif;
+        }
+
+        .nav-link {
+            font-family: 'Raleway', sans-serif;
+        }
+
+        .card-header {
+            padding-left: 550px;
+            font-size: 30px;
+            font-family: 'Permanent Marker', cursive;
+
+        }
+
+        .card-title {
+            font-family: 'Raleway', sans-serif;
+        }
+
+        body {
+            background-color: darkslateblue;
+            background-size: 100%;
+        }
+
+        #coll {
+            width: 20%;
+        }
+
+        .card-body {
+            border-radius: .4em;
+        }
+
+        .flexbox {
+            display: flex;
+        }
+
+        .flexbox section {
+            width: calc(100% / 3);
+            padding: 5%;
+        }
